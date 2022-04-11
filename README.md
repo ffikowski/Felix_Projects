@@ -7,7 +7,7 @@ All study related programming projects
 - The separation parametes for both models got tuned according to the Accuracy and the ROC curve
 - For the random forests the number of trees, maximal depth and the number of variables to possibly split at in each node
 
-# [Big-Data-Analytics-(Practical-Tasks)](https://github.com/ffikowski/Big-Data-Analytics-Practical-Tasks-)
+# [Big-Data-Analytics (Practical-Tasks)](https://github.com/ffikowski/Big-Data-Analytics-Practical-Tasks-)
 - Practical tasks which were part of the course Big Data Analytics
 - The tasks were mainly employed to a data set of the game FIFA 2020
 - Most steps of the Knowledge-Discovery-in-Databases-Process are captured with focus on Data Mining
@@ -21,7 +21,7 @@ All study related programming projects
   - Movement
   - Destruction of another bacteria
 
-# [Armament-and-unemployment-data-analysis](https://github.com/ffikowski/Armament-and-unemployment-data-analysis)
+# [Armament-and-Unemployment-Data-Analysis](https://github.com/ffikowski/Armament-and-unemployment-data-analysis)
 - Bachelor thesis: Analysis of the connection between the armament industry and unemployment in Germany during 
 - Digitalization and preparation through Python (take into account that these are my first steps in coding without any preknowledge)
 - Application of a Panel-data regression analysis in R
