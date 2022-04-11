@@ -1,5 +1,5 @@
-# Felix_Projects
-All study related programming projects
+# Felix' Projects
+This side contains some of mine study related projects I have been working on.
 
 # [Blood Preasure Data](https://github.com/ffikowski/Blood-Preasure-Data)
 - Created and compared were different prediction models to predict whether a person has blood preasure or not
