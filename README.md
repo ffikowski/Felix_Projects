@@ -22,7 +22,7 @@ This side contains some of mine study related projects.
   - Destruction of another bacteria
 
 # [Armament-and-Unemployment-Data-Analysis](https://github.com/ffikowski/Armament-and-unemployment-data-analysis)
-- Bachelor thesis: Analysis of the connection between the armament industry and unemployment in Germany during 
+- Bachelor thesis: Analysis of the connection between the armament industry and unemployment in Germany during the 1930s and 1940s
 - Digitalization and preparation through Python (take into account that these are my first steps in coding without any preknowledge)
 - Application of a Panel-data regression analysis in R
 - Result: The Armament Industry had an signifcant influence on the unemployment figures in the respective cities
