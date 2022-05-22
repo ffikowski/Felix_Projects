@@ -1,5 +1,9 @@
 # Felix' Projects
 This side contains some of mine study related projects.
+# [GDP Growth Forecast - A Vector Autoregressive Approach](https://github.com/ffikowski/GDP-Forecast)
+- In this project GDP growth of the U.S. gets forecast through a time series analysis approach
+- Therefore, different autoregressive and vector autoregressive processes are applied
+- The data is taken from the FRED data base
 
 # [Blood Preasure Data](https://github.com/ffikowski/Blood-Preasure-Data)
 - Created and compared were different prediction models in R to predict whether a person has blood preasure or not
