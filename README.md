@@ -1,5 +1,5 @@
 # Felix' Projects
-This side contains some of mine study related projects.
+This side contains some of my study related projects.
 # [GDP Growth Forecast - A Vector Autoregressive Approach](https://github.com/ffikowski/GDP-Forecast)
 - In this project GDP growth of the U.S. gets forecast through a time series analysis approach
 - Therefore, different autoregressive and vector autoregressive processes are applied
