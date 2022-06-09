@@ -1,6 +1,12 @@
 # Felix' Projects
 This side contains some of my study related projects.
-# [GDP Growth Forecast - A Vector Autoregressive Approach (05/22)](https://github.com/ffikowski/GDP-Forecast)
+
+# [GDP Growth Forecast - A Machine Learning Approach (06/22)](https://github.com/ffikowski/GDP-Forecast-Machine-Learning-Approach)
+- In this project GDP growth of the U.S. is forecasted through a machine learning approach
+- Therefore, different regression trees and a random forest are applied
+- The data is taken from the FRED data base
+
+# [GDP Growth Forecast - A Vector Autoregressive Approach (05/22)](https://github.com/ffikowski/GDP-Forecast](https://github.com/ffikowski/GDP-Forecast-Vector-Autoregressive-Approach)
 - In this project GDP growth of the U.S. gets forecast through a time series analysis approach
 - Therefore, different autoregressive and vector autoregressive processes are applied
 - The data is taken from the FRED data base
