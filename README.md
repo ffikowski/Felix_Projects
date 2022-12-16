@@ -1,5 +1,5 @@
 # Felix' Projects
-This side contains some of my study related projects.
+This side contains some of my study related projects up to June 2022.
 
 # [GDP Growth Forecast - A Machine Learning Approach (06/22)](https://github.com/ffikowski/GDP-Forecast-Machine-Learning-Approach)
 - In this project GDP growth of the U.S. is forecasted through a machine learning approach
