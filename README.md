@@ -1,6 +1,26 @@
 # Felix' Projects
 This side contains some of my study related projects up to June 2022.
 
+# [Bitcoin Price and Tweets (still in progress)](https://github.com/ffikowski/Bitcoin-Price-and-Tweets)
+- This project has the goal to predict the bicoin price by using tweets containing hash tags like #BTC or #Bitcoin
+- First we generate to each tweet a sentiment score by application off the pretrained transformer model finBERT
+- Then the mean sentiment score per day is calculated
+- This mean sentiment score is used among other variables in a VAR time series model to predict the bitcoin price
+
+# [Text-as-Data (12/22)](https://github.com/ffikowski/Text-as-Data)
+- Practical tasks which were part of the course Text as Data
+- The first tasks were mainly focused on preprocessing of text data
+- The later tasks focused on modelling
+- The models were e.g. clustering models, topic models or embedding models
+
+
+# [Statistics meets Linguistics (01/23)](https://github.com/ffikowski/Statistics-meets-Linguistics)
+- This code is partly a result of the equaly named university course "Statistics meets Linguistics"
+- The goal is to classify whether a speaker has a singaporean origin or a canadian origin
+- The main focus was on the data preprocessing
+- The Classification task was solved by a simple Linear Support Vector Classifier
+
+
 # [GDP Growth Forecast - A Machine Learning Approach (06/22)](https://github.com/ffikowski/GDP-Forecast-Machine-Learning-Approach)
 - In this project GDP growth of the U.S. is forecasted through a machine learning approach
 - Therefore, different regression trees and a random forest are applied in R
