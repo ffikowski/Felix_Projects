@@ -1,5 +1,5 @@
 # Felix' Projects
-This side contains some of my study related projects up to June 2022.
+This side contains some of my study related projects up to January 2023.
 
 # [Bitcoin Price and Tweets (still in progress)](https://github.com/ffikowski/Bitcoin-Price-and-Tweets)
 - This project has the goal to predict the bicoin price by using tweets containing hash tags like #BTC or #Bitcoin
