@@ -1,46 +1,50 @@
 # Felix' Projects
-This side contains some of my study related projects up to January 2023.
+This page includes some of the projects I have completed in my studies up to January 2023.
 
 # [Bitcoin Price and Tweets (03/23)](https://github.com/ffikowski/Bitcoin-Price-and-Tweets)
-- This project has the goal to predict the bicoin price by using tweets containing hash tags like #BTC or #Bitcoin
-- First we generate to each tweet a sentiment score by application off the pretrained transformer model finBERT
-- Then the mean sentiment score per day is calculated
-- This mean sentiment score is used among other variables in a VAR time series model to predict the bitcoin price
+- This project aims to predict Bitcoin prices using tweets that contain hashtags like #BTC or #Bitcoin.
+- Initially, we assign each tweet a sentiment score using the pre-trained transformer model, finBERT.
+- Next, we compute the daily mean sentiment score.
+- This mean sentiment score, alongside other variables, is utilized in a VAR time series model to predict Bitcoin prices.
 
 # [Text-as-Data (12/22)](https://github.com/ffikowski/Text-as-Data)
-- Practical tasks which were part of the course Text as Data
-- The first tasks were mainly focused on preprocessing of text data
-- The later tasks focused on modelling
-- The models were e.g. clustering models, topic models or embedding models
+- This includes practical tasks from the 'Text as Data' course.
+- The early tasks were primarily focused on preprocessing text data.
+- The latter tasks were centered on modelling.
+- Models include, for example, clustering models, topic models, and embedding models.
 
 
 # [Statistics meets Linguistics (01/23)](https://github.com/ffikowski/Statistics-meets-Linguistics)
-- This code is partly a result of the equaly named university course "Statistics meets Linguistics"
-- The goal is to classify whether a speaker has a singaporean origin or a canadian origin
-- The main focus was on the data preprocessing
-- The Classification task was solved by a simple Linear Support Vector Classifier
+- This code is partly a result of the identically named university course "Statistics meets Linguistics."
+- The goal of this project is to classify if a speaker has a Singaporean or Canadian origin.
+- The main emphasis was placed on data preprocessing.
+- The classification task was solved using a simple Linear Support Vector Classifier.
 
+# [GDP growth - Nowcast (07/2022)](https://github.com/ffikowski/GDP-Nowcast)
+- In this project GDP growth of the U.S. is nowcasted through a time series analysis approach
+- u-MIDAS (unrestricted mixed-data sampling) regression model is applied to handle mixed frequency data
+- The data is taken from the FRED data base
 
 # [GDP Growth Forecast - A Machine Learning Approach (06/22)](https://github.com/ffikowski/GDP-Forecast-Machine-Learning-Approach)
-- In this project GDP growth of the U.S. is forecasted through a machine learning approach
-- Therefore, different regression trees and a random forest are applied in R
-- The data is taken from the FRED data base
+- In this project, U.S. GDP growth is forecasted using a machine learning approach.
+- Different regression trees and a random forest are applied in R for this purpose.
+- The data is sourced from the FRED database.
 
 # [GDP Growth Forecast - A Vector Autoregressive Approach (05/22)](https://github.com/ffikowski/GDP-Forecast-Vector-Autoregressive-Approach)
-- In this project GDP growth of the U.S. gets forecast through a time series analysis approach
-- Therefore, different autoregressive and vector autoregressive processes are applied in R
-- The data is taken from the FRED data base
+- This project forecasts U.S. GDP growth using a time series analysis approach.
+- Different autoregressive and vector autoregressive processes are applied in R for this purpose.
+- The data is also taken from the FRED database.
 
 # [Blood Preasure Data (12/21)](https://github.com/ffikowski/Blood-Preasure-Data)
-- Created and compared were different prediction models in R to predict whether a person has blood preasure or not
-- Logistic regression and random forest were the two main modells
-- For the random forests the number of trees, maximal depth and the number of variables to possibly split at in each node
-- The separation parametes for both models got tuned according to the Accuracy and the ROC curve
+- Various prediction models were created and compared in R to determine if a person has blood pressure issues.
+- The two primary models were logistic regression and random forest.
+- For the random forests, parameters such as the number of trees, maximum depth, and the number of potential split variables at each node were adjusted.
+- The differentiation parameters for both models were tuned according to the accuracy and the ROC curve.
 
 # [Big-Data-Analytics - Practical-Tasks (01/22)](https://github.com/ffikowski/Big-Data-Analytics-Practical-Tasks-)
-- Practical tasks performed in Python which were part of the course Big Data Analytics
-- The tasks were mainly employed to a data set of the game FIFA 2020
-- Most steps of the Knowledge-Discovery-in-Databases-Process are captured with focus on Data Mining
+- This includes practical tasks from the 'Big Data Analytics' course, performed in Python.
+- The tasks were primarily conducted on a dataset from the FIFA 2020 game.
+- Most steps of the Knowledge Discovery in Databases process are covered, with a focus on Data Mining.
 
 # [Petri-Dish Simulation (08/21)](https://github.com/ffikowski/Petri-Dish)
 - This is a simulation of a petri dish which is implemented in Python
